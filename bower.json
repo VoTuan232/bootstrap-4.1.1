@@ -1,0 +1,17 @@
+{
+  "name": "boostrap-4.1.1",
+  "version": "1.0.1",
+  "authors": [
+    "votuanbk232@gmail.com"
+  ],
+  "description": "Bootstrap-4.1.1",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/VoTuan232/bootstrap-4.1.1.git",
+  "ignore": [
+    "README.md"
+  ]
+}
